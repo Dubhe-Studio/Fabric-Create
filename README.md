@@ -6,7 +6,7 @@
 	<br><br>
 </h1>
 
- **[English](https://github.com/Dubhe-Studio/Fabric-Create/blob/mc1.17/dev/README_EN.md)** | **简体中文**
+ **[English](https://github.com/Dubhe-Studio/Fabric-Create/blob/mc1.17/dev/README%20_EN.md)** | **简体中文**
 
 欢迎来到机械动力Fabric版本，这是一个为建筑、装饰和自动化提供各种工具和方块的模组。目前正在进行初步的开发。
 
